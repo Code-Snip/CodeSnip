@@ -1,6 +1,8 @@
 # CodeSnip - Snippets Manager
-[codesnip.com.br](https://codesnip.com.br)
-
+<a href="https://codesnip.com.br" target="_blank" title="Code Snip - Snippets Manager" >CodeSnip</a>
+<center>
+<img src="https://codesnip.com.br/Code-Snip-dashboard.jpg" alt="Code Snip - Snippets Manager" title="Code Snip">
+</center>
 **Color Syntax para seus trechos de código**
 Conte com o suporte de um editor com sintax style para facilitar a procura e identificação dos seus snippets, alem disso tenha identação e suporte a diversas linguagens de programação
 
