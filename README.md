@@ -1,5 +1,6 @@
 # CodeSnip - Snippets Manager
 [codesnip.com.br](https://codesnip.com.br)
+
 **Color Syntax para seus trechos de código**
 Conte com o suporte de um editor com sintax style para facilitar a procura e identificação dos seus snippets, alem disso tenha identação e suporte a diversas linguagens de programação
 
