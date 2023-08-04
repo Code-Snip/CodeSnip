@@ -26,5 +26,5 @@ Localize seus melhores trechos de código com facilidade
 **Snippets Privados ILIMITADO**
 Salve todos os códigos de forma privada... Deixe público apenas os códigos que você preferir.
 
-_**Acesse**_ [codesnip.com.br](https://codesnip.com.br)
+_**Acesse**_ [codesnip.net](https://codesnip.net/)
 
